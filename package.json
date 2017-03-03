@@ -10,6 +10,7 @@
   "homepage": "N/A",
   "author": "Jarob Gilliam <jarobgilliambiz@gmail.com>",
   "dependencies": {
+    "express": "^4.15.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
