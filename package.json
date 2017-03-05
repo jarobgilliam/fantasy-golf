@@ -10,9 +10,12 @@
   "homepage": "N/A",
   "author": "Jarob Gilliam <jarobgilliambiz@gmail.com>",
   "dependencies": {
+    "cheerio": "^0.22.0",
     "express": "^4.15.0",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "request": "^2.79.0",
+    "tabletojson": "^0.4.0"
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.22.0",
